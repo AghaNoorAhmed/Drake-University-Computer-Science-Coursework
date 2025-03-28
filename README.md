@@ -14,3 +14,16 @@ Instructor: Dr. Md Alimoor Reza
 Assignment: Notebook #4:
 https://colab.research.google.com/drive/1u2ZmkWfyV8uJtegE0PnaGEWX5oFJt06M?usp=drive_link
 Grade: 5/5, 100%
+
+CS128 Assignment Feedback by Instructor Dr. Md Alimoor Reza:
+Overall good!
+Part1 (4/4):
+Matrix addition: correct
+Matrix multiplication: correct
+Matrix transpose: correct
+Matrix-vector product: correct
+Part2 (8/8):
+2D rotation: correct 
+2D translation: correct
+3D rotation: correct
+3D translation: correct
