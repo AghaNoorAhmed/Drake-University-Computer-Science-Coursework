@@ -27,3 +27,12 @@ Part2 (8/8):
 2D translation: correct
 3D rotation: correct
 3D translation: correct
+
+CS120 Assignment Instructions:
+https://docs.google.com/document/d/1TKwdLytE1NKP_gZQrx7tQ6_-eK3YRTMSJRIHlhAeXhM/edit?tab=t.0#heading=h.xxfjpe3qn2x4
+
+CS128 Assignment Instructions:
+https://github.com/alimoorreza/CS128-SP25-Assignment-1
+
+CS130 Assignment Instructions:
+https://ericmanley.github.io/Fall2024/CS130/assignments/assignment-4/
